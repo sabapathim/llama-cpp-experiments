@@ -143,3 +143,12 @@ Results:
 ### Conclusion
 
 Qwen2.5-Coder-3B-Instruct Q4_K_M fits completely into the 4 GB VRAM available on the NVIDIA T1200 Laptop GPU and runs with full GPU offloading through the Vulkan backend.
+
+
+## Knowledge Notes
+
+| Note | Topic |
+|--------|--------|
+| 001 | VRAM vs GPU |
+| 002 | AI Model VRAM Sizing |
+| 003 | VRAM Formulas |
