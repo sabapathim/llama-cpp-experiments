@@ -9,6 +9,7 @@
 
 ## Experiments
 
-| ID | Model | Quantization | Status |
-|----|--------|-------------|--------|
-| 001 | Qwen2.5-Coder-3B-Instruct | Q4_K_M | Running |
+| ID | Model | Quant | Prompt t/s | Gen t/s |
+|----|--------|--------|-----------|---------|
+| 001 | Qwen2.5-Coder-3B-Instruct | Q4_K_M | N/A | N/A |
+| 002 | Qwen2.5-Coder-3B-Instruct | Q4_K_M | 25.6 | 32.0 |
